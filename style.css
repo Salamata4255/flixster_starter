@@ -1,1 +1,73 @@
+* {
+    outline: none
+}
 
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#movies-grid{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    grid-gap: 30px;
+    background-color: rgb(72 9 9);
+}
+
+.movie-card{
+    list-style: none;
+    color: #ffff;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.movie-card .movie-title{
+    font-size: 15px;
+}
+
+.movie-card .movie-poster{
+    display: flex;
+    border-radius: 10px;
+    width: 100%;
+
+    
+}
+
+.movie-card .movie-votes{
+    font-size: 15px;
+}
+
+.header .search-bar .searching{
+    width: 100%;
+    height: 20px;
+    border-radius: 50px;
+    padding: 15px 15px;
+    font-size: 15px;
+    color: #0b0b0b;
+    background: #ffffff;
+    border: 1px solid rgba(255, 255, 255);
+
+}
+
+#close-search-btn{
+    position: static;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 10%;
+    background-color: white;
+}
