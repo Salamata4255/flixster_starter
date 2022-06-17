@@ -10,20 +10,30 @@
 <body>
     <header class="header">
         <div class="navbar">
-            <h1>🍿 Flixster</h1>
+            <h1>🍿 Flixster 🍿</h1>
+
             <div class="search-bar">
+
                 <form id="search-form">
                     <input id="search-input" class="searching" type="text" placeholder="Search or Jump to ......" />
+                    <button id="close-search-btn" type="button" onkeyup="getsearchResults()">Clear</button>
+                    <button id="search-btn" class="search-btn" type="submit">Submit</button>
                 </form>
-                <button id="close-search-btn" type="button" >Clear</button>
+                
             </div>
+
         </div>
 
     </header>
 <main class="movies-table"> 
-    <section class="movies-section">
+    <section id="movies-section">
         <div id="movies-grid"></div>
-</section>
+        <div id="load-more-movies-btn" onclick="loadMore()">Load More</div>
+    </section>
+
+    <section class="search-results" id="search-results hidden">
+        <ul id="movie-results" class="movies-grid"></ul>
+    </section> 
 </main>
     <script src="script.js"></script>
 </body>
