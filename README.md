@@ -46,7 +46,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`<img src='https://user-images.githubusercontent.com/57270552/174412264-1c8ae134-e7ab-4b9f-aee0-336194998f88.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />`
+<img src='https://user-images.githubusercontent.com/57270552/174412264-1c8ae134-e7ab-4b9f-aee0-336194998f88.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://user-images.githubusercontent.com/57270552/174412264-1c8ae134-e7ab-4b9f-aee0-336194998f88.mov
 
 
