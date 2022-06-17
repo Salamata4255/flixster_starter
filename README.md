@@ -2,9 +2,9 @@
 
 ## Week 1 Assignment: Flixster
 
-Submitted by: **NAME**
+Submitted by: **Salamata Bah**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **10** hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
@@ -37,14 +37,19 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 - [ ] Deploy website using GitHub Pages. 
 - [ ] Allow user to view more details about a movie within a popup.
 - [ ] Improve the user experience through CSS & animation.
-- [ ] Allow movie video trailers to be played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
+- [ ] Allow movie video trailers to be
+
+
+
+ played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
 - [ ] Implement anything else that you can get done to improve the app functionality!
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
+`<img src='https://user-images.githubusercontent.com/57270552/174412264-1c8ae134-e7ab-4b9f-aee0-336194998f88.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />`
+https://user-images.githubusercontent.com/57270552/174412264-1c8ae134-e7ab-4b9f-aee0-336194998f88.mov
 
-`ADD_EMBEDDED_CODE_HERE`
+
 
 ### Reflection
 
