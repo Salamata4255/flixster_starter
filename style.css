@@ -161,5 +161,18 @@ header{
     text-align: center;
     }
     
+    #close-search-btn{
+        position: static;
+        height: 20px;
+        font-size: 9px;
+        border-radius: 20%;
+    }
+
+    #search-btn{
+        position: static;
+        height: 20px;
+        font-size: 9px;
+        border-radius: 20%;
+    }
     
 }
