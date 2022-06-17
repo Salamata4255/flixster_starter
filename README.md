@@ -58,6 +58,7 @@ https://user-images.githubusercontent.com/57270552/174412264-1c8ae134-e7ab-4b9f-
 Yes, the labs were very helpful in preparing for the project. Learning about fetching data from an api and modifying the api URL for different queries, manipulating HTML string with innerHTML and getting HTML using the query selector were in fact helpful for this project. I do not feel unprepared to complete the stretch features, I just more time and most likely more practice with the concepts we learned during the week.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
+
 If I had more, I would have worked on the votes stars, as of now, I only have emoji embedded, and I would have given users option to see the actual stars that match the vote average
   
 
